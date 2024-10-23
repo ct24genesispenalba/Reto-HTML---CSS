@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(135, 154, 161);
+    font-style:oblique;
+    font-weight: bolder;
+}
+
+img {
+    color:silver;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bold;
+    text-decoration: underline;
+}
+p {
+    font-weight:lighter;
+    font-family:Times New Roman', Times, serif;
+}
+* {
+    margin: 1%;
+    padding: 0.5%;
+}
